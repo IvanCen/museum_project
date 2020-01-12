@@ -1,0 +1,12 @@
+.resources__link {
+    margin: 0;
+}
+
+@media (min-width: 769px) {
+    .resources__link {
+        margin: 20px;
+    }
+    .resources__link:last-of-type {
+        margin-right: 0;
+    }
+}

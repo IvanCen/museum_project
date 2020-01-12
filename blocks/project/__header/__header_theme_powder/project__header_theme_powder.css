@@ -1,0 +1,10 @@
+.project__header_theme_powder {
+    background: #F9E7D9;
+    margin-bottom: 25px;
+}
+@media (min-width: 769px) {
+    .project__header_theme_powder {
+        margin-bottom: 80px;
+        
+    }
+}

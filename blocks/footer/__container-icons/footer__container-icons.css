@@ -1,0 +1,9 @@
+.footer__container-icons {
+    display: flex;
+    margin: 35px 0 28px;
+}
+@media (min-width: 769px) {
+    .footer__container-icons {
+        order: 1;
+    }
+}

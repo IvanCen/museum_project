@@ -1,0 +1,15 @@
+@import url("__text/description__text.css");
+
+.description
+{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media (min-width: 769px) {
+    .description
+{
+    padding: 60px;
+}
+}

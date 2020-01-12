@@ -1,0 +1,18 @@
+.resources__logo-zone {
+    display: grid;
+    grid-gap: 10px;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    margin: 30px 0;
+}
+
+@media (min-width: 769px) {
+    .resources__logo-zone {
+        display: flex;
+        justify-content: space-around;
+        min-width: 200px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+}

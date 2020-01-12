@@ -1,0 +1,15 @@
+@import url('__header_theme_powder/project__header_theme_powder.css');
+
+.project__header {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (min-width: 769px) {
+    .project__header {
+
+        height: 100px;
+    }
+}

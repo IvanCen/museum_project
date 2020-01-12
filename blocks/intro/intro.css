@@ -1,0 +1,21 @@
+@import url("__text/intro__text.css");
+@import url("__subtitle/intro__subtitle.css");
+@import url("__title/intro__title.css");
+@import url("__img/intro__img.css");
+@import url("__timer/intro__timer.css");
+
+.intro {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    padding: 38px 25px 60px;
+    background: #F9E7D9;
+}
+
+@media (min-width: 769px) {
+    .intro {
+        padding: 47px 25px 40px;
+    }
+}
