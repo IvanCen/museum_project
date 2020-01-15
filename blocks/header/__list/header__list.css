@@ -39,11 +39,5 @@
         align-items: center;
         z-index: 1;
         margin: 0;
-        padding-right: 87px;
-    }
-}
-@media (min-width: 770px) and (max-width: 900px) {
-    .header__list {
-        padding-right: 40px;
     }
 }

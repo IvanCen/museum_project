@@ -3,7 +3,7 @@
     width: 75%;
     height: 80px;
     background: #FFFFFF;
-    transform: translateY(-40%);
+    transform: translateY(-50px);
     padding: 15px;
     display: flex;
     flex-direction: column;

@@ -1,6 +1,5 @@
 .project__item.project__item_size_large {
     padding: 25px 0 40px;
-    margin: 25px 25px;
 }
 
 @media (min-width: 1101px) {

@@ -1,4 +1,5 @@
-@import url('__header_theme_powder/project__header_theme_powder.css');
+@import url('_theme_powder/project__header_theme_powder.css');
+@import url('_theme_light/project__header_theme_light.css');
 
 .project__header {
     height: 70px;

@@ -1,3 +1,5 @@
+@import url("_subtype/intro__title_subtype.css");
+
 .intro__title {
     text-align: center;
     margin: 0 0 14px;
@@ -7,10 +9,6 @@
     .intro__title {
         font-size: 48px;
         line-height: 48px;
-    }
 
-    .intro__title:last-of-type {
-        font-size: 36px;
-        line-height: 36px;
     }
 }
