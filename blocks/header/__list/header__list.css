@@ -1,5 +1,3 @@
-@import url('_open/header__list_open.css');
-
 .header__list {
     text-align: center;
     padding: 0;
@@ -10,7 +8,6 @@
     opacity: 0;
     display: none;
     position: absolute;
-    transition: all 1s ease;
     top: 0;
     right: 0;
     transform: translateY(40px);

@@ -11,3 +11,7 @@
 @import url('../blocks/subtitle/subtitle.css');
 @import url('../blocks/button/button.css');
 @import url("../blocks/description/description.css");
+
+html {
+    scroll-behavior: smooth;
+  }
