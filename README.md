@@ -8,7 +8,7 @@
 ![Main page](https://github.com/IvanCen/museum_project/blob/master/images/musem.png "Акции")
 
 ## Как открыть?
-Пройти по ссылке: https://ivancen.github.io/museum_project/
+Перейти по ссылке: https://ivancen.github.io/museum_project/
 
 ## Стек технологий
 HTML, CSS, BEM, Figma.
