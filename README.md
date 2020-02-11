@@ -5,7 +5,7 @@
 Перед отправкой заказчику, верстка проходила код ревью.
 
 ## Демо 
-![Main page](http://prntscr.com/r0qx8b "Акции")
+![Main page](https://github.com/IvanCen/museum_project/blob/master/images/musem.png "Акции")
 
 ## Как открыть?
 Пройти по ссылке: https://ivancen.github.io/museum_project/
