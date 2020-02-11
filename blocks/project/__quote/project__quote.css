@@ -1,9 +1,0 @@
-@import url('_theme_powder/project__quote_theme_powder.css');
-@import url('_size_s/project__quote_size_s.css');
-@import url('_size_m/project__quote_size_m.css');
-
-.project__quote {
-    font-style: normal;
-    font-weight: normal;
-    margin: 0;
-}
