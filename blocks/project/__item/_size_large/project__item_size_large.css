@@ -1,0 +1,26 @@
+.project__item.project__item_size_large {
+    padding: 25px 0 40px;
+}
+
+@media (min-width: 1101px) {
+    .project__item.project__item_size_large {
+        align-items: flex-start;
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1100px) {
+    .project__item.project__item_size_large {
+        padding: 50px 65px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 769px) {
+    .project__item.project__item_size_large {
+        padding: 50px 65px;
+        display: flex;
+    }
+}

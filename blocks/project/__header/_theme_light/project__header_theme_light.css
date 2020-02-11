@@ -1,0 +1,8 @@
+.project__header.project__header_theme_light {
+    padding: 15px 0;
+}
+@media (min-width: 769px) {
+    .project__header.project__header_theme_light {
+        padding: 0 0;
+    }
+}

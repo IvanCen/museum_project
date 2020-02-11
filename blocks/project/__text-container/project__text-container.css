@@ -1,0 +1,41 @@
+.project__text-container
+{
+    margin-left: 100px;
+}
+.project__text-container_reverse
+{
+    margin-right: 100px;
+    margin-left: 0;
+}
+
+@media (max-width: 1245px) {
+    .project__text-container
+{
+    margin-left: 50px;
+}
+.project__text-container_reverse
+{
+    margin-right: 50px;
+    margin-left: 0;
+}
+}
+@media (max-width: 1100px) {
+    .project__text-container
+{
+    margin-top: 50px;
+    margin-left: 0;
+    width: 513px;
+}
+.project__text-container_reverse
+{
+    margin-right: 0;
+}
+}
+@media (max-width: 769px) {
+    .project__text-container
+{
+    width: 80%;
+    margin-top: 0px;
+}
+}
+

@@ -1,0 +1,15 @@
+.footer__link-email {
+    color: black;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@media (min-width: 769px) {
+    .footer__link-email {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}

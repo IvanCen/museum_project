@@ -1,0 +1,12 @@
+.project__button-zone {
+    background: #F9E7D9;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (min-width: 769px) {
+    .project__button-zone {
+        height: 189px;
+    }
+}

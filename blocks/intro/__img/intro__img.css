@@ -1,0 +1,11 @@
+.intro__img
+{
+    width: 90%;
+}
+
+@media (min-width: 769px) {
+    .intro__img
+{
+    width: 50%;
+}
+}

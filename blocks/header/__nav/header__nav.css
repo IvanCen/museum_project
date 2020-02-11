@@ -1,0 +1,10 @@
+.header__nav {
+    display: inline-block;
+}
+
+.header__nav:hover .header__list,
+.header__nav:focus-within .header__list {
+    visibility: visible;
+    opacity: 1;
+    display: flex;
+}

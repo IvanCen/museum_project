@@ -1,0 +1,19 @@
+@import url('_size_large/project__item_size_large.css');
+
+.project__item {
+    grid-template-columns: repeat(3, 33%);
+    grid-gap: 16px;
+    justify-content: center;
+    padding: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+@media (min-width: 769px) {
+    .project__item
+{
+    display: block;
+}
+}
